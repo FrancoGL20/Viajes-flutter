@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:platzi1/reviewList.dart';
+import 'reviewList.dart';
 import 'description_place.dart';
 import 'header.dart';
 
